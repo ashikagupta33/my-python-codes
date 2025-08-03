@@ -1,0 +1,3 @@
+in the file module.py i have made adictionary where i have written the name of the students and their marks . first the user will enter the name of the student if the student is found in student_marks then it will print the name of the student and their marks otherwise it will print student nit found.
+
+in the second file string.py i have made a list of the numbers from 1 to 10. after that i have printed the numbers from that list. after that i have extracted the first five numbers from that list and print those numbers. after that i have reversed the first five numbers and printed them.
